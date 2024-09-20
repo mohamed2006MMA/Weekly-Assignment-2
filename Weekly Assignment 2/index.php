@@ -79,7 +79,7 @@ $store = new Store("My Online Store", "images/store.jpg", "Welcome to My Online 
         echo '<div class="product-price">$' . $product->getPrice() . '</div>';
         echo '</div>';
     }
-    ?>
+    ?>     
 </div>
 
 </body>
